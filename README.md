@@ -1,4 +1,6 @@
-Problem:
+**Open Figma using the URL:** https://www.figma.com/community/file/1427947824053563075/muslim-companion
+
+**Problem:**
 In today's fast-paced world, many Muslims find it
 challenging to keep track of their religious obligations
 and practices. With various responsibilities and
@@ -8,7 +10,7 @@ comprehensive features, intuitive design, or
 culturally sensitive content, leaving users with a
 fragmented experience.
 
-Solution:
+**Solution:**
 The Muslim Companion app aims to provide a comprehensive,
 all-in-one platform to support Muslims in their daily religious
 practices. It includes features like a prayer tracker, Makkah live
@@ -21,16 +23,19 @@ The app is designed to be user-friendly, intuitive, and culturally
 sensitive, ensuring users can seamlessly integrate their faith
 into their daily lives.
 
-Mood and Tone:
+**Mood and Tone:**
 The app will have a calm, respectful, and uplifting mood and
 tone. It will use a color palette that reflects serenity and
 spirituality, such as #5CE1E6, #2b338e, #a063c6, #c7fc78, and
 #ffa202. The interface will be clean, modern, and easy to
 navigate, providing a sense of peace and focus.
-#2b338e #a063c6
-#c7fc78 #ffa202
 
-Persona:
+**#2b338e
+#a063c6
+#c7fc78
+#ffa202**
+
+**Persona:**
 Name: Thahseen Mohamed Rafeek
 Age: 22
 Occupation: Software Engineer Student
